@@ -10,24 +10,13 @@
 
 <hr/>
 
-<h2 align="left">💻 Tech I Work With</h2>
-
 <!-- Main Tech Stack (Card-style icons) -->
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=android,angular,aws,css,docker,figma,firebase,flutter,git,graphql,html,js,mongodb,mysql,nestjs,nextjs,nodejs,postgresql,react,tailwind,ts,vue,wordpress,php" />
-</p>
-
-<!-- Design & Tools -->
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=photoshop,react,redux,sass" />
-</p>
-
-<!-- Shopify & Page Builders -->
-<p align="left">
+## 💻 Tech I Work With
+<p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" width="48" />
   <img src="https://cdn.worldvectorlogo.com/logos/liquid-1.svg" width="48" />
-  <img src="https://pagefly.io/assets/favicon.ico" width="48" />
-  <img src="https://gempages.net/cdn/shop/files/favicon.png" width="48" />
+  <img src="https://skillicons.dev/icons?i=ts,js,next,react,expressjs,nodejs,mongodb,prisma,graphql,mysql,postgresql,wordpress" />
+  <img src="https://skillicons.dev/icons?i=cloudflare,aws,docker,firebase,jquery,tailwind,bootstrap,css,figma,git,github,gitlab,photoshop" />
 </p>
 
 <hr/>
@@ -36,7 +25,7 @@
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsusano&layout=compact&theme=dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsusano&theme=dark&hide_border=true"
     alt="Most Used Languages"
   />
 </p>

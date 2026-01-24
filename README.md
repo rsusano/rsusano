@@ -15,8 +15,8 @@
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" width="48" />
   <img src="https://cdn.worldvectorlogo.com/logos/liquid-1.svg" width="48" />
-  <img src="https://skillicons.dev/icons?i=ts,js,next,react,expressjs,nodejs,mongodb,prisma,graphql,mysql,postgresql,wordpress" />
-  <img src="https://skillicons.dev/icons?i=cloudflare,aws,docker,firebase,jquery,tailwind,bootstrap,css,figma,git,github,gitlab,photoshop" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,ts,next,react,expressjs,nodejs,mongodb,graphql,mysql,postgresql,wordpress" />
+  <img src="https://skillicons.dev/icons?i=cloudflare,docker,firebase,jquery,tailwind,bootstrap,git,github,figma,photoshop" />
 </p>
 
 <hr/>
@@ -25,7 +25,7 @@
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsusano&theme=dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsusano&theme=tokyonight&hide_border=false&border_radius=20px"
     alt="Most Used Languages"
   />
 </p>

@@ -16,7 +16,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" width="48" />
   <img src="https://cdn.worldvectorlogo.com/logos/liquid-1.svg" width="48" />
   <img src="https://skillicons.dev/icons?i=js,html,css,ts,next,react,expressjs,nodejs,mongodb,graphql,mysql,postgresql,wordpress" />
-  <img src="https://skillicons.dev/icons?i=cloudflare,docker,firebase,jquery,tailwind,bootstrap,git,github,figma,photoshop" />
+  <img src="https://skillicons.dev/icons?i=vuejs,cloudflare,docker,firebase,jquery,tailwind,bootstrap,git,github,figma,photoshop" />
 </p>
 
 <hr/>

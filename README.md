@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael Susano</h1>
 
 <p align="center">
-  Shopify Developer & CRO Focused E-commerce Specialist
+  Full Stack Shopify Developer & CRO Focused E-commerce Specialist
 </p>
 
 <p align="center">

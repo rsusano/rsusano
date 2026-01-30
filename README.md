@@ -22,10 +22,10 @@
 <hr/>
 
 <h2 align="left">📊 Analytics</h2>
-
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsusano&theme=tokyonight&hide_border=false&border_radius=20px"
+    height="400"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rsusano&theme=tokyonight&hide_border=false&border_radius=20px&langs_count=12"
     alt="Most Used Languages"
   />
 </p>

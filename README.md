@@ -17,8 +17,8 @@
   <img src="https://cdn.worldvectorlogo.com/logos/liquid-1.svg" width="48" />
   <img src="https://skillicons.dev/icons?i=js,html,css,ts,next,react,expressjs,nodejs,mongodb,graphql,mysql,postgresql,wordpress," />
   <img src="https://skillicons.dev/icons?i=supabase,remix,prisma,vuejs,cloudflare,docker,firebase,jquery,tailwind,bootstrap,git,github,figma,photoshop," />
+  <img src="https://skillicons.dev/icons?i=rust,rails,vercel,flutter,dart,postman,materialui,webpack,babel,redux,redis,bash," />
 </p>
-<p align="center"><img src="https://skillicons.dev/icons?i=rust,rails,vercel,flutter,dart,postman,materialui,webpack,babel,redux,redis,bash," /></p>
 <hr/>
 
 <h2 align="left">📊 Analytics</h2>

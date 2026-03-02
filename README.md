@@ -17,9 +17,9 @@
   <img src="https://cdn.worldvectorlogo.com/logos/liquid-1.svg" width="48" />
   <img src="https://skillicons.dev/icons?i=js,html,css,ts,next,react,expressjs,nodejs,mongodb,graphql,mysql,postgresql,wordpress&perline=13" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=supabase,remix,prisma,vuejs,cloudflare,docker,firebase,jquery,tailwind,bootstrap,git,github,figma,photoshop,rust&perline=15" />
+  <img src="https://skillicons.dev/icons?i=supabase,remix,prisma,vuejs,cloudflare,docker,firebase,jquery,tailwind,rust,rails,vercel,flutter,dart,postman&perline=15" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=rails,vercel,flutter,dart,postman,materialui,webpack,babel,redux,redis,bash&perline=15" />
+  <img src="https://skillicons.dev/icons?i=materialui,webpack,babel,redux,redis,bash,bootstrap,git,github,figma,photoshop&perline=15" />
 </p>
 
 <hr/>

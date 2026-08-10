@@ -24,11 +24,23 @@
 
 <hr/>
 
+<!--
+  Analytics card removed: the old shared Vercel URL (github-readme-stats-sigma-five)
+  is not yours and hits GitHub API rate limits (needs PAT_1 on that project).
+
+  To restore Analytics on YOUR Vercel:
+  1. Deploy: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
+  2. In Vercel → Project → Settings → Environment Variables → add PAT_1 = your GitHub token
+     (https://github.com/settings/tokens — classic token with read:user)
+  3. Redeploy, then uncomment and set YOUR-PROJECT below.
+-->
+<!--
 <h2 align="left">📊 Analytics</h2>
 <p align="left">
   <img
     height="400"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rsusano&theme=tokyonight&hide_border=false&border_radius=20px&langs_count=12"
+    src="https://YOUR-PROJECT.vercel.app/api/top-langs/?username=rsusano&theme=tokyonight&hide_border=false&border_radius=20px&langs_count=12"
     alt="Most Used Languages"
   />
 </p>
+-->

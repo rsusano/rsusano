@@ -28,7 +28,7 @@
 <p align="left">
   <img
     height="400"
-    src="https://github-readme-stats-rsusano.vercel.app/api/top-langs/?username=rsusano&theme=tokyonight&hide_border=false&border_radius=20px&langs_count=20&count_private=true"
+    src="https://github-readme-stats-rsusano.vercel.app/api/top-langs/?username=rsusano&theme=tokyonight&hide_border=false&border_radius=20px&langs_count=12"
     alt="Most Used Languages"
   />
 </p>

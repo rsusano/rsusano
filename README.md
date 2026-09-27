@@ -19,7 +19,7 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=supabase,remix,prisma,vuejs,cloudflare,docker,firebase,jquery,tailwind,rust,rails,vercel,flutter,dart,postman&perline=15" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=materialui,webpack,babel,redux,redis,bash,bootstrap,git,github,figma,photoshop&perline=15" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,python,materialui,webpack,babel,redux,redis,bash,bootstrap,git,github,figma,photoshop&perline=15" />
 </p>
 
 <hr/>

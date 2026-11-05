@@ -63,7 +63,7 @@
 <p align="left">
   <img
     height="400"
-    src="https://github-readme-stats-rsusano.vercel.app/api/top-langs/?username=rsusano&theme=tokyonight&hide_border=false&border_radius=20px&langs_count=6&stats_format=bytes"
+    src="https://github-readme-stats-rsusano.vercel.app/api/top-langs/?username=rsusano&theme=tokyonight&hide_border=false&border_radius=20px&langs_count=5"
     alt="Most Used Languages"
   />
 </p>

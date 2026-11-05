@@ -28,9 +28,9 @@
 <p align="center">
   <a href="https://www.credly.com/badges/271d750e-eb8c-48fe-9235-cfaba5f20a66/public_url" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://images.credly.com/size/340x340/images/17add978-0cea-40e8-8832-9492fc7c260b/linkedin_thumb_Coursera_20Full_20Stack_20Software_20Developer_20Prof_20Cert_20V5.png"
+      src="./assets/ibm-full-stack-software-developer.png"
       alt="IBM Full Stack Software Developer Professional Certificate"
-      width="170"
+      width="280"
     />
   </a>
 </p>

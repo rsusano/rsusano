@@ -26,33 +26,36 @@
 
 <h2 align="center">🏆 Certifications & Credentials</h2>
 
-<p align="center">
-  <a href="https://www.credly.com/badges/271d750e-eb8c-48fe-9235-cfaba5f20a66/public_url" target="_blank">
-    <img
-      src="./assets/ibm-full-stack-v5.png"
-      width="180"
-      alt="IBM Full Stack Software Developer Professional Certificate V5"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/9ac5be41-6087-4d55-b705-50f56dfea2c2/public_url" target="_blank">
-    <img
-      src="./assets/generative-ai-essentials.png"
-      width="180"
-      alt="Generative AI Essentials for Software Developers"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <strong>IBM Full Stack Software Developer Professional Certificate</strong>
-  ·
-  <a href="https://www.credly.com/badges/271d750e-eb8c-48fe-9235-cfaba5f20a66/public_url">Verify</a>
-  <br/>
-  <strong>Generative AI Essentials for Software Developers</strong>
-  ·
-  <a href="https://www.credly.com/badges/9ac5be41-6087-4d55-b705-50f56dfea2c2/public_url">Verify</a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/badges/271d750e-eb8c-48fe-9235-cfaba5f20a66/public_url" target="_blank">
+        <img
+          src="./assets/ibm-full-stack-v5.png"
+          width="180"
+          alt="IBM Full Stack Software Developer Professional Certificate V5"
+        />
+      </a>
+      <br/><br/>
+      <strong>IBM Full Stack Software Developer<br/>Professional Certificate</strong>
+      <br/>
+      <a href="https://www.credly.com/badges/271d750e-eb8c-48fe-9235-cfaba5f20a66/public_url">Verify on Credly</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/badges/9ac5be41-6087-4d55-b705-50f56dfea2c2/public_url" target="_blank">
+        <img
+          src="./assets/generative-ai-essentials.png"
+          width="180"
+          alt="Generative AI Essentials for Software Developers"
+        />
+      </a>
+      <br/><br/>
+      <strong>Generative AI Essentials<br/>for Software Developers</strong>
+      <br/>
+      <a href="https://www.credly.com/badges/9ac5be41-6087-4d55-b705-50f56dfea2c2/public_url">Verify on Credly</a>
+    </td>
+  </tr>
+</table>
 
 <hr/>
 

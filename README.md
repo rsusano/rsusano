@@ -24,19 +24,24 @@
 
 <hr/>
 
-## 🏅 Certifications
+<h2 align="center">🏆 Certifications & Credentials</h2>
+
 <p align="center">
-  <a href="https://www.credly.com/badges/271d750e-eb8c-48fe-9235-cfaba5f20a66/public_url" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.credly.com/badges/271d750e-eb8c-48fe-9235-cfaba5f20a66/public_url" target="_blank">
     <img
-      src="./assets/ibm-full-stack-software-developer.png"
-      alt="IBM Full Stack Software Developer Professional Certificate"
-      width="280"
+      src="./assets/ibm-full-stack-v5.png"
+      width="180"
+      alt="IBM Full Stack Software Developer Professional Certificate V5"
     />
   </a>
 </p>
+
 <p align="center">
-  <b>IBM Full Stack Software Developer Professional Certificate</b><br/>
-  <a href="https://www.credly.com/badges/271d750e-eb8c-48fe-9235-cfaba5f20a66/public_url">Verify on Credly</a>
+  <strong>IBM Full Stack Software Developer Professional Certificate</strong>
+  <br/>
+  <a href="https://www.credly.com/badges/271d750e-eb8c-48fe-9235-cfaba5f20a66/public_url">
+    Verify Credential on Credly
+  </a>
 </p>
 
 <hr/>
